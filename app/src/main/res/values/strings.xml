@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RTKGPS</string>
+    <string name="run">start</string>
+    <string name="positionL">经  度 L: </string>
+    <string name="positionB">纬  度 B: </string>
+    <string name="positionH">大地高 H: </string>
+    <string name="Nresid">sdn: </string>
+    <string name="Eresid">sde: </string>
+    <string name="Uresid">sdu: </string>
+    <string name="SATnum">卫星数: </string>
+    <string name="Mode"> 解算模式: </string>
+    <string name="time"> 时   间: </string>
+    <string name="ResultB">0</string>
+    <string name="ResultL">0</string>
+    <string name="ResultH">0</string>
+    <string name="ResultN">0</string>
+    <string name="ResultE">0</string>
+    <string name="ResultU">0</string>
+    <string name="setButton">set</string>
+    <string name="Set">设置</string>
+    <string name="rawobsdataView">流动站参数 :</string>
+    <string name="nrtip">NTRIP协议 :</string>
+    <string name="rawobsdatashow">Example:Configs@www.igs-ip.net:80/FFMJ1:</string>
+    <string name="rawnavdataView">广播星历参数 :</string>
+    <string name="rawnavdatashow">Example:Configs@products.igs-ip.net:2101/RTCM3EPH:</string>
+    <string name="rawssrdataView">改正数参数 :</string>
+    <string name="rawssrdatashow">Example:Configs@products.igs-ip.net:2101/IGS03:</string>
+    <string name="OK">确定</string>
+
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+
+
+
+
+</resources>
